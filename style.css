@@ -324,3 +324,8 @@ svg rect {
     text-align: left;
     height: 2rem;
 }
+
+#footer {
+    margin-bottom: 30px;
+    text-align: center;
+}
